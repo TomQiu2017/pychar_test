@@ -1,2 +1,6 @@
 pytest
+<<<<<<< HEAD
 selenium
+=======
+selenium
+>>>>>>> origin/master
